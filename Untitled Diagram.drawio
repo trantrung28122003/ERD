@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bHssMF1aIb_r4F3_CLn2-124" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="460" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="450" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bHssMF1aIb_r4F3_CLn2-125" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="bHssMF1aIb_r4F3_CLn2-124" source="bHssMF1aIb_r4F3_CLn2-9">
           <mxGeometry relative="1" as="geometry">
@@ -349,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bHssMF1aIb_r4F3_CLn2-136" value="Phương Thức Thanh Toán" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="515" y="520" width="150" height="40" as="geometry" />
+          <mxGeometry x="600" y="520" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bHssMF1aIb_r4F3_CLn2-139" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="450" y="600" width="100" height="40" as="geometry" />
